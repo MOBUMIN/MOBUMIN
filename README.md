@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=MOBUMIN%20GIT&fontSize=90)
 
-
-[<p align="center">📌Resume</p>](https://mobumin.github.io/online-cv/)
-
 [<p align="center">🌱Tistory</p>](https://kiju23.tistory.com/)
 
 **<p align="center">I can use</p>**
