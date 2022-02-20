@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=MOBUMIN%20GIT&fontSize=90)
 
 [<p align="center">🌱Tistory</p>](https://kiju23.tistory.com/)
+[<p align="center">🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
 
 **<p align="center">I can use</p>**
 <p align="center">
