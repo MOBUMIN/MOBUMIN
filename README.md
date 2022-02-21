@@ -3,6 +3,11 @@
 [<p align="center">🌱Tistory</p>](https://kiju23.tistory.com/)
 [<p align="center">🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
 
+----
+**<p align="center">Recent Post</p>**
+[<p align="center">CreateAsyncThunk에서의 getState</p>](https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
+----
+
 **<p align="center">I can use</p>**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
