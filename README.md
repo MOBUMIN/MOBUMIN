@@ -3,7 +3,7 @@
 [<p>🌱Tistory</p>](https://kiju23.tistory.com/)
 [<p>🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
 
-----
+---
 
 **<p>Recently Updated Post</p>**
 <p color="gray">2022-03-05 SAT</p>
@@ -12,7 +12,7 @@
 
 <a href="https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0">CreateAsyncThunk에서의 getState</a>
 
-----
+---
 
 **<p>Studying</p>**
 <p>
@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/></a>
 </p>
 
+---
+
+**<p>Badge</p>**
 [![MOBUMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOBUMIN)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOBUMIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
