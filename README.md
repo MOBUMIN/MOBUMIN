@@ -4,10 +4,14 @@
 [<p>🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
 
 ----
-**<p>Recently Posted</p>**
+
+**<p>Recently Updated Post</p>**
 <p color="gray">2022-03-05 SAT</p>
-[우아한 테크 세미나, React Query 정리](https://velog.io/@wynter_kim/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-React-Query-%ED%9B%84%EA%B8%B0)
-[CreateAsyncThunk에서의 getState](https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
+
+<a href="https://velog.io/@wynter_kim/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-React-Query-%ED%9B%84%EA%B8%B0">우아한 테크 세미나, React Query 정리</a>
+
+<a href="https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0">CreateAsyncThunk에서의 getState</a>
+
 ----
 
 **<p>I can use</p>**
