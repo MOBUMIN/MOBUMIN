@@ -1,16 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=MOBUMIN%20GIT&fontSize=90)
+<strong> Hello! I'm Wynter. </strong>
 
-[<p align="center">🌱Tistory</p>](https://kiju23.tistory.com/)
-[<p align="center">🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
+[<p>🌱Tistory</p>](https://kiju23.tistory.com/)
+[<p>🌱Velog 이사중</p>](https://velog.io/@wynter_kim)
 
 ----
-**<p align="center">Recent Post</p>**
-[<p align="center">우아한 테크 세미나, React Query 정리</p>](https://velog.io/@wynter_kim/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-React-Query-%ED%9B%84%EA%B8%B0)
-[<p align="center">CreateAsyncThunk에서의 getState</p>](https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
+**<p>Recently Posted</p>**
+<p color="gray">2022-03-05 SAT</p>
+[우아한 테크 세미나, React Query 정리](https://velog.io/@wynter_kim/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-React-Query-%ED%9B%84%EA%B8%B0)
+[CreateAsyncThunk에서의 getState](https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0)
 ----
 
-**<p align="center">I can use</p>**
-<p align="center">
+**<p>I can use</p>**
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </p>
   
-**<p align="center">I have experienced but unskilled</p>**
+**<p>I have experienced but unskilled</p>**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -34,7 +35,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 </p>
   
-**<p align="center">I'm going to study</p>**
+**<p>I'm going to study</p>**
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/></a>
