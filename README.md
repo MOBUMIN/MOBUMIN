@@ -6,11 +6,9 @@
 ---
 
 **<p>Recently Updated Post</p>**
-<p color="gray">2022-03-05 SAT</p>
+<p color="gray">2022-03-24 THU</p>
 
-<a href="https://velog.io/@wynter_kim/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-React-Query-%ED%9B%84%EA%B8%B0">우아한 테크 세미나, React Query 정리</a>
-
-<a href="https://velog.io/@wynter_kim/Redux-CreateAsyncThunk%EC%97%90%EC%84%9C-getState%EB%A1%9C-Store-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0">CreateAsyncThunk에서의 getState</a>
+<a href="https://velog.io/@wynter_kim/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%90%EB%9F%AC%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC%EC%97%90%EC%84%9C-%EC%97%90%EB%9F%AC%EA%B0%80-%EC%9E%A1%ED%9E%88%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0">프론트엔드 에러바운더리에서 에러가 잡히지 않는 경우</a>
 
 ---
 
